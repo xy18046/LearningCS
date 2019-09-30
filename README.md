@@ -1,8 +1,7 @@
-# LearningCS
-What do we learn from CS
+# 计算机专业毕业后大致的工作方向
+### What do we learn from CS
 
 
-## 计算机专业毕业后大致的工作方向
 ### 作者： [phphot](https://blog.csdn.net/phphot)
 
 [原文链接](https://blog.csdn.net/phphot/article/details/4345657)
